@@ -1,5 +1,5 @@
 const producto={
-    nombre:"Monitor Gamer 20\"",
+    nombre:"Monitor Gamer 21\"",
     precio:300000,
     informacion:{
         peso:"1kg",
