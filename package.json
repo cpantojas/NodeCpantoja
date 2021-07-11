@@ -1,11 +1,7 @@
 {
   "name": "nodecpantoja",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "Curso de Node",
-=======
-  "description": "curso de node clase 1",
->>>>>>> 473e6338683b8f1494689945bd75d6158f8f574c
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,11 +18,8 @@
   "homepage": "https://github.com/cpantojas/NodeCpantoja#readme",
   "dependencies": {
     "express": "^4.17.1"
-<<<<<<< HEAD
-=======
   },
   "devDependencies": {
     "nodemon": "^2.0.11"
->>>>>>> 473e6338683b8f1494689945bd75d6158f8f574c
   }
 }
